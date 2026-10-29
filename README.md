@@ -10,9 +10,4 @@ Task No: 1 - Temple Donation Register
 A simple web application to record temple donations, store donor details in a MySQL database, and display donation records with the total donation amount.
 
 ## Technologies Used
-- HTML
-- JSP
-- Java
-- MySQL
-- Apache Tomcat
-- Maven
+HTML, JSP, Java, MySQL, Apache Tomcat, Maven
